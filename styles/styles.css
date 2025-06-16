@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body{
+    line-height: 1.5;
+    font-family: 'inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+header{
+    background-color: #FFFFFF;
+    padding: 40px 0;
+}
+
+h1, h2{
+    font-weight: 600;
+}
+
+h1{
+    line-height: 1;
+    text-align: center;
+    font-size: 36px;
+}
+
+#subtitulo{
+    text-align: center;
+}
+
+section{
+    background-color: #F8FAFC;
+    width: 100%;
+    padding: 40px 0;
+}
+
+ul{
+    width: 55%;
+    margin: 0 auto;
+}
+
+h2{
+    font-size: 24px;
+}
+
+ol{
+    padding-left: 22px;
+}
+
+.respuestas{
+    line-height: 2;
+    width: 100%;
+}
+
+.respuesta-return-policy{
+    list-style-type: disc;
+}
+
+a{
+    text-decoration: none;
+    color: #4E80EE;
+}
+
+hr{
+    width: 100%;
+    color: #D2D5DA;
+}
+
+.author-info{
+    margin-top: 50px;
+    text-align: center;
+}
