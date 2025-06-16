@@ -68,3 +68,9 @@ hr{
     margin-top: 50px;
     text-align: center;
 }
+
+@media screen and (max-width:640px){
+    #subtitulo{
+        font-size: 12px;
+    }
+}
