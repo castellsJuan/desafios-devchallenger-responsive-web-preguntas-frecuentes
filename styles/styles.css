@@ -32,8 +32,8 @@ section{
     padding: 40px 0;
 }
 
-ul{
-    width: 55%;
+article{
+    width: 50%;
     margin: 0 auto;
 }
 
@@ -45,9 +45,8 @@ ol{
     padding-left: 22px;
 }
 
-.respuestas{
+li{
     line-height: 2;
-    width: 100%;
 }
 
 .respuesta-return-policy{
@@ -60,13 +59,8 @@ a{
 }
 
 hr{
-    width: 100%;
+    width: 50%;
     color: #D2D5DA;
-}
-
-.author-info{
-    margin-top: 50px;
-    text-align: center;
 }
 
 @media (max-width: 640px){
