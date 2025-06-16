@@ -69,12 +69,22 @@ hr{
     text-align: center;
 }
 
-@media (max-width:640px){
+@media (max-width: 640px){
     ul{
-        max-width: 100%;
         padding: 0;
         margin-left: 25px;
         width: 100%;
+    }
+
+    section{
+        padding-right: 40px;
+    }
+}
+
+@media (max-width: 1024px){
+    ul{
+        width: 60%;
+        padding-left: 30px;
     }
 }
 
