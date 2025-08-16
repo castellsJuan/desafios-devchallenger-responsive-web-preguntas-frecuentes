@@ -56,12 +56,10 @@ li{
 
 a{
     text-decoration: none;
-    /*color: #4E80EE;*/
-    color: #0000CC;
-    /*color: #003366;*/
-    /*color: #0022AA;*/
+    color: #4E80EE;
 }
 
+a:visited,
 a:hover{
     font-weight: 700;
 }
